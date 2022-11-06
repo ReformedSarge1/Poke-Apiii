@@ -1,0 +1,30 @@
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: fit-content;
+    display: block;
+}
+
+.home1 {
+    color: black;
+}
+
+.image1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-size: cover;
+}
+
+.navbar-custom {
+    background-color: rgb(153, 214, 238); 
+}
+
+
+
+body{
+    background-color: rgb(161, 216, 238);
+}
